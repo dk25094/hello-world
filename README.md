@@ -1,2 +1,2 @@
 # hello-world
-test
+test how to use git hub
